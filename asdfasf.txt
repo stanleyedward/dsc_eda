@@ -1,0 +1,5 @@
+1. encode gender faeture
+1.5. check for missing values and fill thems
+2. feature engineer an average marks column
+3. LabelEncode study_hour_group and Has_Part_Time_Job
+4. discard name feature
