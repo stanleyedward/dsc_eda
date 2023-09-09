@@ -3,3 +3,9 @@
 2. feature engineer an average marks column
 3. LabelEncode study_hour_group and Has_Part_Time_Job
 4. discard name feature
+
+
+MODEL TRAIIGN
+KERNELPCA on subject marks into 1
+catboost
+one hot encode gender and hours study group and has part time
