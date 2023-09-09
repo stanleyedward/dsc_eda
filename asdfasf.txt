@@ -6,6 +6,8 @@
 
 
 MODEL TRAIIGN
+binning age into 3-4 groups
 KERNELPCA on subject marks into 1
 catboost
 one hot encode gender and hours study group and has part time
+kfold cross vallidation
