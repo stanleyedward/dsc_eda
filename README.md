@@ -6,7 +6,7 @@
 
 Analysing a student performance dataset by performing Exploratory
 Data Analysis (EDA) in a Jupyter notebook. Exploring trends, correlations, and
-insights using univariate, bivariate, and multivariate techniques. predicting a target
+insights using univariate, bivariate, and multivariate techniques. Predicting a target
 variable based on features from the dataset using a machine learning model.
 
 Dataset - [student_extended_ml_dataset2.csv](https://drive.google.com/file/d/1T9pnZA9DEhcHsxd8itRLv36NsZ53q3t4/view)
