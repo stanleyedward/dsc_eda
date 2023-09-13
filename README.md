@@ -11,7 +11,7 @@ variable based on features from the dataset using a machine learning model.
 
 Dataset - [student_extended_ml_dataset2.csv](https://drive.google.com/file/d/1T9pnZA9DEhcHsxd8itRLv36NsZ53q3t4/view)
 
-# Libraries used:
+# Libraries used
 ![numpy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white) ![pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 
 # Installation
